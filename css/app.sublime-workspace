@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ini",
+				"initGame"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"cu",
+				"currentTimer"
+			],
+			[
+				"mov",
+				"moveNumbers"
+			],
+			[
+				"com",
+				"combinations"
+			],
+			[
+				"sco",
+				"scorePanel"
+			],
+			[
+				"s",
+				"scorePanel"
+			],
+			[
+				"arr",
+				"arrayCards"
+			],
+			[
+				"open",
+				"openCards"
+			],
+			[
+				"ge",
+				"getElementsByClassName"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"deck",
+				"deckChildren"
+			],
+			[
+				"car",
+				"cartas"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"File: New View into File"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 55.0,
+		"history":
+		[
+			"finalGame"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mariana/Desktop/fend-project-memory-game-master 6/js/app.js",
+		"/Users/mariana/Desktop/fend-project-memory-game-master 6/css/app.css",
+		"/Users/mariana/Desktop/fend-project-memory-game-master 6/index.html",
+		"/Users/mariana/Downloads/memory-game-master/js/index.js",
+		"/Users/mariana/Desktop/Memory-Game Final project/js/app.js",
+		"/Users/mariana/Desktop/Memory-Game Final project/css/app.css",
+		"/Users/mariana/Desktop/Memory-Game Final project/index.html",
+		"/Users/mariana/Desktop/Memory Game - Project/js/app.js",
+		"/Users/mariana/Desktop/Memory Game - Project/css/app.css",
+		"/Users/mariana/Desktop/Memory Game - Project/index.html",
+		"/Users/mariana/Desktop/UDACITY/fend-project-memory-game-master/js/app.js",
+		"/Users/mariana/Desktop/UDACITY/fend-project-memory-game-master/css/app.css",
+		"/Users/mariana/Desktop/UDACITY/fend-project-memory-game-master/index.html",
+		"/Users/mariana/Desktop/UDACITY/fend-project-memory-game-master/.git/COMMIT_EDITMSG",
+		"/Users/mariana/Desktop/udacity-git-course/my-travel-plans/style.css",
+		"/Users/mariana/Desktop/udacity-git-course/my-travel-plans/index.html",
+		"/Users/mariana/Desktop/udacity-git-course/my-travel-plans/README.md",
+		"/Users/mariana/Desktop/UDACITY/Memory card/app.js",
+		"/Users/mariana/Desktop/UDACITY/Memory card/style.css",
+		"/Users/mariana/Desktop/UDACITY/Memory card/index.html",
+		"/Users/mariana/Desktop/fend-project-memory-game-master/js/app.js",
+		"/Users/mariana/Desktop/UDACITY/project-pixel-art-maker-starter-master/designs.js",
+		"/Users/mariana/Desktop/UDACITY/project-pixel-art-maker-starter-master/styles.css",
+		"/Users/mariana/Desktop/UDACITY/project-pixel-art-maker-starter-master/index.html",
+		"/Users/mariana/Desktop/Logica de programacao com JS/tabuada.html",
+		"/Users/mariana/Downloads/project-pixel-art-maker-starter-master/styles.css",
+		"/Users/mariana/Downloads/project-pixel-art-maker-starter-master/index.html",
+		"/Users/mariana/Desktop/udacity-git-course/new-git-project/.git/COMMIT_EDITMSG",
+		"/Users/mariana/Desktop/udacity-git-course/new-git-project/css/app.css",
+		"/Users/mariana/Desktop/udacity-git-course/new-git-project/index.html",
+		"/Users/mariana/Desktop/UDACITY/Jane/index.html",
+		"/Users/mariana/Desktop/udacity-git-course/new-git-project/app.js",
+		"/Users/mariana/Desktop/UDACITY/Jane/style.css",
+		"/Users/mariana/Desktop/udacity-git-course/course-git-blog-project/index.html",
+		"/Users/mariana/Desktop/UDACITY/fend-animal-trading-cards-master/card.html",
+		"/Users/mariana/Desktop/UDACITY/Jane/estilo.css",
+		"/Users/mariana/Desktop/UDACITY/designer-mockuo - portfolio jane/style.css",
+		"/Users/mariana/Desktop/index.html",
+		"/Users/mariana/Desktop/Mariana-programacao/Portfolio/index.html",
+		"/Users/mariana/Desktop/Jane.html",
+		"/Users/mariana/Desktop/UDACITY/style.css",
+		"/Users/mariana/Desktop/style.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
